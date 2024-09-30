@@ -8,7 +8,7 @@ public class conexao {
 
     private static final String URL = "jdbc:mysql://localhost:3306/consultorioAtividade";
     private static final String USER = "root";
-    private static final String PASSWORD = "!Passaporte1";
+    private static final String PASSWORD = "catolica";
 
     public static Connection getConnection() throws SQLException {
         try {
